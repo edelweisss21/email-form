@@ -1,0 +1,16 @@
+.tools {
+	display: flex;
+	gap: 0 5px;
+
+	.btn {
+		border: none;
+		border-radius: 5px;
+		cursor: pointer;
+		background-color: transparent;
+		transition: color 0.3s ease;
+
+		&:hover {
+			color: antiquewhite;
+		}
+	}
+}
