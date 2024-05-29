@@ -1,5 +1,5 @@
-import EmailEditor from './components/EmailEditor';
-import EmailList from './components/EmailList';
+import EmailEditor from '../../components/EmailEditor';
+import EmailList from '../../components/EmailList';
 import cl from './Home.module.scss';
 
 const Home = () => {

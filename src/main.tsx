@@ -1,10 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Home from './Home';
+import Home from './pages/Home/Home';
+import Provider from './Provider';
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
 	<React.StrictMode>
-		<Home />
+		<Provider>
+			<Home />
+		</Provider>
 	</React.StrictMode>
 );

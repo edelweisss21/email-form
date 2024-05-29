@@ -1,0 +1,24 @@
+{
+	"emails": [
+		{
+			"id": "1",
+			"text": "a title"
+		},
+		{
+			"id": "7d26",
+			"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur,\n  deleniti impedit cupiditate suscipit in minima."
+		},
+		{
+			"id": "aee2",
+			"text": "Lorem ipsum dolor sit, amet <i>consectetur</i> adipisicing elit. Pariatur,\n  deleniti impedit cupiditate s<b>uscipit</b> in minima."
+		},
+		{
+			"id": "8b58",
+			"text": "sd<u>fsdfsfd</u>"
+		},
+		{
+			"id": "8ae7",
+			"text": "<b>s<i>dfsdf</i>sfd</b>"
+		}
+	]
+}
